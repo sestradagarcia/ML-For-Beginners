@@ -252,6 +252,9 @@ if __name__ == '__main__':
 
 ---
 
+## Evaluate Model 
+![alt text](image.png)
+
 ## Key Conversion Patterns
 
 ### Pandas → NumPy
